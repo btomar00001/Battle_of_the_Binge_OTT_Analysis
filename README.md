@@ -214,7 +214,7 @@ wordcloud>=1.8.0
 
 ## 🎓 Academic Context
 
-**Course**: Data Visualization Project  
+**Course**: Data Analytics Project  
 **Semester**: 4th Semester  
 **Institution**: Galgotias University  
 **Batch**: 2027 Passout  
@@ -235,7 +235,7 @@ wordcloud>=1.8.0
 
 ## 📜 License
 
-This project is created for academic purposes as part of the Data Visualization course at Galgotias University.
+This project is created for academic purposes as part of the Data Analytics course at Galgotias University.
 
 ## 👨‍💼 Author
 
