@@ -240,15 +240,44 @@ This project is created for academic purposes as part of the Data Visualization 
 
 ## 👨‍💼 Author
 
-**[Your Name]**  
+**[Bhuvaneshwar Pratap]**  
 4th Semester, 2027 Passout  
 Galgotias University  
 
 ## 📞 Contact
 
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: [bhuvaneshwar.23scse1012708@galgotiasuniversity.ac.in]
+- LinkedIn: [https://www.linkedin.com/in/bhuvaneshwar-pr/]
+- GitHub: [https://github.com/btomar00001/]
+
+---
+
+## 👥 Team Members – *Knights of the Round Table*
+### 🛡️ Bhuvaneshwar Pratap — *Team Leader*
+- **Email:** bhuvaneshwar.23scse1012708@galgotiasuniversity.ac.in  
+- **Role:** Project coordination, data preprocessing, and strategic analysis
+
+
+### ⚔️ Tanishk Shrivastav 
+- **Email:** tanishk.23scse1012713@galgotiasuniversity.ac.in  
+- **Role:** Exploratory data analysis and advanced visualizations
+
+
+### 🏹 Saurav Kumar 
+- **Email:** saurav.23scse1012762@galgotiasuniversity.ac.in  
+- **Role:** Statistical modeling and trend identification
+
+
+### 🗡️ Gaurav Anand 
+- **Email:** gaurav.23scse1012635@galgotiasuniversity.ac.in  
+- **Role:** Business interpretation and strategic recommendations
+
+  
+"Just as the Knights of the Round Table united their diverse strengths to achieve legendary success, our team combines technical expertise with analytical prowess to decode the mysteries of the streaming wars."
+
+
+---
+
 
 ## 🙏 Acknowledgments
 
@@ -256,6 +285,7 @@ Galgotias University
 - **Kaggle** for providing comprehensive datasets
 - **Shivam Bansal** for curating and maintaining the OTT platform datasets
 - Faculty mentors for project direction and feedback
+
 
 ---
 
