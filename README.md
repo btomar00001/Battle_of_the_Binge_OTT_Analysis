@@ -24,8 +24,7 @@ Battle_of_the_Binge_OTT_Analysis/
 │   └── processed_data/
 │       └── all_platforms_data.csv
 ├── 02_Notebooks/
-│   ├── 01_Data_Collection_and_Preprocessing.ipynb
-│   ├── 02_Exploratory_Data_Analysis.ipynb
+│   ├── 01_Data_Processing_and_EDA.ipynb
 │   └── 03_Data_Visualization_and_Interpretation.ipynb
 ├── 03_Reports/
 │   ├── Review_1_Report.pdf
